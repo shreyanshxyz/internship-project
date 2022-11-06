@@ -1,0 +1,18 @@
+.pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  list-style: none;
+}
+
+.page-item {
+  padding: 2px;
+  border: 1px solid black;
+}
+
+.page-link {
+  text-decoration: none;
+  color: black;
+  font-weight: 400;
+}

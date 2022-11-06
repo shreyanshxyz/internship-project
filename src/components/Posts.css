@@ -1,0 +1,20 @@
+.posts {
+  display: flex;
+  /* font-size: 0; */
+  flex-wrap: wrap;
+  margin: -10px 0 0 -10px;
+}
+
+.post {
+  /* display: inline-block; */
+  /* background: blue; */
+  /* margin: 10px 0 0 10px;
+  flex-grow: 1;
+  height: 100px; */
+  display: flex;
+  /* justify-content: space-between; */
+  flex: 1 0 21%; /* explanation below */
+  margin: 5px;
+  height: 100px;
+  /* background-color: blue; */
+}
